@@ -1,1 +1,3 @@
 # ejemploAzureDeploy
+
+deployando en az
